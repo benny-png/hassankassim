@@ -39,9 +39,9 @@
 
 ## My Github Stats
 
-[![' Sani 's Github stats](https://github-readme-stats.vercel.app/api?username=vonshirco&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117\&rank_icon=github)](https://github.com/vonshirco/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonshirco&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+![hassankassim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankassim&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![hassankassim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassankassim&theme=dracula&hide_border=false)
+![hassankassim's Stats](https://github-readme-stats.vercel.app/api?username=hassankassim&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ## Connect with me
 

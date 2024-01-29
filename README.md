@@ -39,7 +39,7 @@
 
 ## My Github Stats
 
-![hassankassim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankassim&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![hassankassim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankassim&theme=dracula&show_icons=true&hide_border=false&layout=compact&hide=html,css)
 
 
 ![hassankassim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassankassim&theme=dracula&hide_border=false)

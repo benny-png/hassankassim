@@ -1,7 +1,7 @@
 ## Hi there, It's Sani 👋 | A Tech Enthusiast 🧑‍💻
 
-![](https://komarev.com/ghpvc/?username=vonshirco&style=plastic)
-[![GitHub followers](https://img.shields.io/github/followers/vonshirco?style=social&label=Followers&maxAge=2592000)](https://github.com/vonshirco?tab=followers)
+![](https://komarev.com/ghpvc/?username=Hassankassim&style=plastic)
+[![GitHub followers](https://img.shields.io/github/followers/vonshirco?style=social&label=Followers&maxAge=2592000)](https://github.com/Hassankassim?tab=followers)
 
 ## I'm a Javascript Developer | UI & 3D Designer | Electronics Scientist
 

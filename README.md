@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=vonshirco&style=plastic)
 [![GitHub followers](https://img.shields.io/github/followers/vonshirco?style=social&label=Followers&maxAge=2592000)](https://github.com/vonshirco?tab=followers)
 
-## I'm a FullStack Developer | UI & 3D Designer | Electronics Scientist
+## I'm a Javascript Developer | UI & 3D Designer | Electronics Scientist
 
 - 👯 I’m looking to collaborate with other Tech nerds
 - 🥅 2022 Goals: Contribute more to Open Source projects
